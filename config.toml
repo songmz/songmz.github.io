@@ -50,6 +50,14 @@ publishDir = "docs"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "nicechord"
+    pre = ""
+    post = ""
+    name = "好和弦"
+    url = "/notebook_nicechord/"
+    title = ""
+    weight = 4
 
 # Hugo 解析文档的配置
 [markup]
