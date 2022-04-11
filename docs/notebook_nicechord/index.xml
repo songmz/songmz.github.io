@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notebook_nicechords on 我的全新的 Hugo 网站</title>
+    <link>http://example.org/notebook_nicechord/</link>
+    <description>Recent content in Notebook_nicechords on 我的全新的 Hugo 网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 03 Jan 2022 12:37:41 +0800</lastBuildDate><atom:link href="http://example.org/notebook_nicechord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01-为什么流行歌听起来都那么像</title>
+      <link>http://example.org/notebook_nicechord/01-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B5%81%E8%A1%8C%E6%AD%8C%E5%90%AC%E8%B5%B7%E6%9D%A5%E9%83%BD%E9%82%A3%E4%B9%88%E5%83%8F/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/01-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B5%81%E8%A1%8C%E6%AD%8C%E5%90%AC%E8%B5%B7%E6%9D%A5%E9%83%BD%E9%82%A3%E4%B9%88%E5%83%8F/</guid>
+      <description>这是因为好多流行歌都用了相同的和弦进行 台湾大概很多流行歌的进行是这样的 C &amp;gt; G/B &amp;gt; Am &amp;gt; Em/G &amp;gt; F &amp;gt; C/E &amp;gt; Dm &amp;gt; G 这个进行的特色就是低音一直会往下走，而且</description>
+    </item>
+    
+    <item>
+      <title>02-在十分钟之内搞懂“所有的”现代和弦代号</title>
+      <link>http://example.org/notebook_nicechord/02-%E5%9C%A8%E5%8D%81%E5%88%86%E9%92%9F%E4%B9%8B%E5%86%85%E6%90%9E%E6%87%82%E6%89%80%E6%9C%89%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%92%8C%E5%BC%A6%E4%BB%A3%E5%8F%B7/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/02-%E5%9C%A8%E5%8D%81%E5%88%86%E9%92%9F%E4%B9%8B%E5%86%85%E6%90%9E%E6%87%82%E6%89%80%E6%9C%89%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%92%8C%E5%BC%A6%E4%BB%A3%E5%8F%B7/</guid>
+      <description>和弦代号就是谱子上看到的数字和字母组成的东西 和弦(chord)就是三个音或以上的，三度堆叠的组合。 所以不一定就刚好是三个音，如果有4个5个或</description>
+    </item>
+    
+    <item>
+      <title>03-和弦只要&#43;2就比较厉害</title>
+      <link>http://example.org/notebook_nicechord/03-%E5%92%8C%E5%BC%A6%E5%8F%AA%E8%A6%81&#43;2%E5%B0%B1%E6%AF%94%E8%BE%83%E5%8E%89%E5%AE%B3/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/03-%E5%92%8C%E5%BC%A6%E5%8F%AA%E8%A6%81&#43;2%E5%B0%B1%E6%AF%94%E8%BE%83%E5%8E%89%E5%AE%B3/</guid>
+      <description>和弦后面+2，就表示在该和弦的基础上，加上一个从根音开始的大二度音。 比如C和弦加上二度音，就是C2。完整的写法是Cadd2 不止大三和弦可以加</description>
+    </item>
+    
+    <item>
+      <title>04-鬼音（GhostNotes）</title>
+      <link>http://example.org/notebook_nicechord/04-%E9%AC%BC%E9%9F%B3ghostnotes/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/04-%E9%AC%BC%E9%9F%B3ghostnotes/</guid>
+      <description>打爵士鼓时候的鬼音，正式的英文名叫ghost note，中文也有翻译成幽灵音、闷音。通常就直接叫英文名就可以了。 ghost note简单来说就是非常小声</description>
+    </item>
+    
+    <item>
+      <title>05-和弦有什么功能</title>
+      <link>http://example.org/notebook_nicechord/05-%E5%92%8C%E5%BC%A6%E6%9C%89%E4%BB%80%E4%B9%88%E5%8A%9F%E8%83%BD/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/05-%E5%92%8C%E5%BC%A6%E6%9C%89%E4%BB%80%E4%B9%88%E5%8A%9F%E8%83%BD/</guid>
+      <description>如果把C大调的音阶列出来，然后把每一个音都做一个三和弦，就会得到七个和弦。这七个和弦不用外加临时长降记号，就会自然发生在C大调里面的和弦。 所</description>
+    </item>
+    
+    <item>
+      <title>06-和弦还有什么功能</title>
+      <link>http://example.org/notebook_nicechord/06-%E5%92%8C%E5%BC%A6%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E5%8A%9F%E8%83%BD/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/06-%E5%92%8C%E5%BC%A6%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E5%8A%9F%E8%83%BD/</guid>
+      <description>前面介绍了3种最基本的和弦功能，还有剩下的4个和弦要归类为什么功能呢？ 德国人Hugo Riemann(1849-1919)的解释更好理解一点，</description>
+    </item>
+    
+    <item>
+      <title>07-什么是“12小节蓝调”</title>
+      <link>http://example.org/notebook_nicechord/07-%E4%BB%80%E4%B9%88%E6%98%AF12%E5%B0%8F%E8%8A%82%E8%93%9D%E8%B0%83/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/07-%E4%BB%80%E4%B9%88%E6%98%AF12%E5%B0%8F%E8%8A%82%E8%93%9D%E8%B0%83/</guid>
+      <description>12小节蓝调(12-bar blues)就是12个小节的和弦进行，它常常会出现在爵士乐或早期的摇滚音乐中。 Wikipedia The 12-bar blues in one of the most prominent chord progressions in popular music. 12小</description>
+    </item>
+    
+    <item>
+      <title>08-一次搞懂所有音程名称</title>
+      <link>http://example.org/notebook_nicechord/08-%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E6%89%80%E6%9C%89%E9%9F%B3%E7%A8%8B%E5%90%8D%E7%A7%B0/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/08-%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E6%89%80%E6%9C%89%E9%9F%B3%E7%A8%8B%E5%90%8D%E7%A7%B0/</guid>
+      <description>我们干嘛要知道音程名称？ 音程是两个音之间的距离的单位 度 从一个音的名字念到另一个音的名字，总共念几个字，它们的距离就是几度。 比如1到3我们要念</description>
+    </item>
+    
+    <item>
+      <title>09-左手琶音伴奏的始祖</title>
+      <link>http://example.org/notebook_nicechord/09-%E5%B7%A6%E6%89%8B%E7%90%B6%E9%9F%B3%E4%BC%B4%E5%A5%8F%E7%9A%84%E5%A7%8B%E7%A5%96/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/09-%E5%B7%A6%E6%89%8B%E7%90%B6%E9%9F%B3%E4%BC%B4%E5%A5%8F%E7%9A%84%E5%A7%8B%E7%A5%96/</guid>
+      <description>左手的琶音或分解和弦伴奏可能是写钢琴作品时最好用的招数了。从300年以前的古典音乐到现在，几乎所有写过钢琴曲的作曲家，多多少少都有用过琶音或</description>
+    </item>
+    
+    <item>
+      <title>10-低音要怎么走</title>
+      <link>http://example.org/notebook_nicechord/10-%E4%BD%8E%E9%9F%B3%E8%A6%81%E6%80%8E%E4%B9%88%E8%B5%B0/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/10-%E4%BD%8E%E9%9F%B3%E8%A6%81%E6%80%8E%E4%B9%88%E8%B5%B0/</guid>
+      <description>会走路的低音英文叫作Walking Bass，是在爵士音乐中很常见的低音形态。 Walking Bass是指每一个音都一样长的低音线条。 因为每一个音都一样长，</description>
+    </item>
+    
+    <item>
+      <title>11-超简单的流行歌抒情伴奏</title>
+      <link>http://example.org/notebook_nicechord/11-%E8%B6%85%E7%AE%80%E5%8D%95%E7%9A%84%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%8A%92%E6%83%85%E4%BC%B4%E5%A5%8F/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/11-%E8%B6%85%E7%AE%80%E5%8D%95%E7%9A%84%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%8A%92%E6%83%85%E4%BC%B4%E5%A5%8F/</guid>
+      <description>这个伴奏法几乎在所有的中等速度和慢速的抒情流行歌都可以使用。 假如你只拿到了一份只有主旋律跟和弦的歌谱，你想要自弹自唱或给另外一个人伴奏，你要</description>
+    </item>
+    
+    <item>
+      <title>12-更有节奏感的流行歌伴奏</title>
+      <link>http://example.org/notebook_nicechord/12-%E6%9B%B4%E6%9C%89%E8%8A%82%E5%A5%8F%E6%84%9F%E7%9A%84%E6%B5%81%E8%A1%8C%E6%AD%8C%E4%BC%B4%E5%A5%8F/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/12-%E6%9B%B4%E6%9C%89%E8%8A%82%E5%A5%8F%E6%84%9F%E7%9A%84%E6%B5%81%E8%A1%8C%E6%AD%8C%E4%BC%B4%E5%A5%8F/</guid>
+      <description>这一集就是把之前的简单的流行歌抒情伴奏和鬼音结合起来。 下面就是练习一下在简单的流行歌里面加入一些很小声很小声的音。比如你有一个这样的简单C和</description>
+    </item>
+    
+    <item>
+      <title>13-Solresol如何用音符来讲话</title>
+      <link>http://example.org/notebook_nicechord/13-solresol%E5%A6%82%E4%BD%95%E7%94%A8%E9%9F%B3%E7%AC%A6%E6%9D%A5%E8%AE%B2%E8%AF%9D/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/13-solresol%E5%A6%82%E4%BD%95%E7%94%A8%E9%9F%B3%E7%AC%A6%E6%9D%A5%E8%AE%B2%E8%AF%9D/</guid>
+      <description>很多人都说音乐是一种语言，这个说法其实是在说音乐可以传达人的情感或者是象征意义而已。但123有没有可能拿来当日常生活中的放言呢？ 这个人是一位</description>
+    </item>
+    
+    <item>
+      <title>14-什么是终止式</title>
+      <link>http://example.org/notebook_nicechord/14-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%88%E6%AD%A2%E5%BC%8F/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/14-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BB%88%E6%AD%A2%E5%BC%8F/</guid>
+      <description>很多弹钢琴的人听到终止式这三个字就会联想到HANON的音阶练习的最后面的那四和和弦，甚至很多人以为那四个和弦就是所谓的终止式，但其实不是。 终</description>
+    </item>
+    
+    <item>
+      <title>15-更多的终止方式</title>
+      <link>http://example.org/notebook_nicechord/15-%E6%9B%B4%E5%A4%9A%E7%9A%84%E7%BB%88%E6%AD%A2%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/15-%E6%9B%B4%E5%A4%9A%E7%9A%84%E7%BB%88%E6%AD%A2%E6%96%B9%E5%BC%8F/</guid>
+      <description>假终止 就是假装要终止，它要假装制造一个要结束的假象，但是却没有终止在你期待的地方。 我们知道五级和弦很喜欢接到一级和弦，也就是说如果乐句快要结</description>
+    </item>
+    
+    <item>
+      <title>16-大和弦的四种口味</title>
+      <link>http://example.org/notebook_nicechord/16-%E5%A4%A7%E5%92%8C%E5%BC%A6%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%8F%A3%E5%91%B3/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/16-%E5%A4%A7%E5%92%8C%E5%BC%A6%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%8F%A3%E5%91%B3/</guid>
+      <description>如果我现在有一个C和弦，有什么可以把它变酷炫的方式呢？ 一个简单的方式是加入大七度音，对于C和弦来说，就是多加一个7进去，这样它就变成了有13</description>
+    </item>
+    
+    <item>
+      <title>17-如何定出动感的低音线条</title>
+      <link>http://example.org/notebook_nicechord/17-%E5%A6%82%E4%BD%95%E5%AE%9A%E5%87%BA%E5%8A%A8%E6%84%9F%E7%9A%84%E4%BD%8E%E9%9F%B3%E7%BA%BF%E6%9D%A1/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/17-%E5%A6%82%E4%BD%95%E5%AE%9A%E5%87%BA%E5%8A%A8%E6%84%9F%E7%9A%84%E4%BD%8E%E9%9F%B3%E7%BA%BF%E6%9D%A1/</guid>
+      <description>之前介绍过Walking Bass，这次介绍的是充满16分音符的比较动感的低音写法。 假设我们现在有一个Dm7和G7这两个和弦需要来回切换的段落</description>
+    </item>
+    
+    <item>
+      <title>18-很潮的属11和弦</title>
+      <link>http://example.org/notebook_nicechord/18-%E5%BE%88%E6%BD%AE%E7%9A%84%E5%B1%9E11%E5%92%8C%E5%BC%A6/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/18-%E5%BE%88%E6%BD%AE%E7%9A%84%E5%B1%9E11%E5%92%8C%E5%BC%A6/</guid>
+      <description>本节课要对之前的一些课程有所了解。 假设我们现在有一个旋律，它最后的结尾是41，然后我们想要在最后有一个五级到一级和弦的终止式。 一个习惯古典音</description>
+    </item>
+    
+    <item>
+      <title>19-很爵士的属13和弦</title>
+      <link>http://example.org/notebook_nicechord/19-%E5%BE%88%E7%88%B5%E5%A3%AB%E7%9A%84%E5%B1%9E13%E5%92%8C%E5%BC%A6/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/19-%E5%BE%88%E7%88%B5%E5%A3%AB%E7%9A%84%E5%B1%9E13%E5%92%8C%E5%BC%A6/</guid>
+      <description>之前说到属七和弦听起来比较古典，属十一和弦听起来会比较流行，但如果你要听起来很爵士就要用属十三和弦了。下面就是G开头的属十三和弦。 它有7个音</description>
+    </item>
+    
+    <item>
+      <title>nicechord</title>
+      <link>http://example.org/notebook_nicechord/readme/</link>
+      <pubDate>Mon, 03 Jan 2022 12:37:41 +0800</pubDate>
+      
+      <guid>http://example.org/notebook_nicechord/readme/</guid>
+      <description>NiceChord B站的上和弦，共297集</description>
+    </item>
+    
+  </channel>
+</rss>
